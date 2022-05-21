@@ -1,4 +1,5 @@
 *.out
 *.exe
-chexxviz
+chessviz
 *.o
+.vs
